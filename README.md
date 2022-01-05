@@ -1,2 +1,2 @@
 # tabulate-practice
-This repo is practice using tabulate.
+This repo is practice with tabulate.
